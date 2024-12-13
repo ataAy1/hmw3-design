@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Shop</string>
+    <string name="home_title">Home</string>
+    <string name="hot">Hot</string>
+    <string name="popular">Popular</string>
+    <string name="trending">Trending</string>
+    <string name="fresh">Fresh</string>
+    <string name="all_foods_description">All Foods</string>
+    <string-array name="food_names">
+        <item>Kofte</item>
+        <item>Pasta</item>
+        <item>Kebab</item>
+        <item>Burger</item>
+        <item>Steak</item>
+        <item>Sarma</item>
+    </string-array>
+</resources>

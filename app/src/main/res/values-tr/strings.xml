@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yemek Dükkanı</string>
+    <string name="home_title">Ana Sayfa</string>
+    <string name="hot">Sıcak</string>
+    <string name="popular">Popüler</string>
+    <string name="trending">Gündemde</string>
+    <string name="fresh">Taze</string>
+    <string name="all_foods_description">Tüm Yemekler</string>
+    <string-array name="food_names">
+        <item>Köfte</item>
+        <item>Makarna</item>
+        <item>Kebap</item>
+        <item>Hamburger</item>
+        <item>Bonfile</item>
+        <item>Sarma</item>
+    </string-array>
+</resources>
